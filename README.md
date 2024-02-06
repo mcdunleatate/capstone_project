@@ -8,8 +8,9 @@
     * https://rapidapi.com/bruceowenga-771Y05KlODq/api/crypto-news-api2/
     * 
 * ethereum transaction analysis
-    * clustering 
+    * clustering EDA
     * anomaly Detection
+        * PCA
     * predictive pattern via singular individual (sequence analysis)
-    
+
 
