@@ -28,7 +28,7 @@ The dataset will consist of Ethereum transaction data, including Ethereum addres
     * Strech goal: include into the clustering a success (or high-growth) of the address
 
 * EDA
-    * PCA
+    * Strech Goal: Understanding PCA
         * PCA visualizer
     * Analyze time zone Activity
         * What time of day are most people trading? *
@@ -41,8 +41,11 @@ The dataset will consist of Ethereum transaction data, including Ethereum addres
     * Gas price/usage analysis
     * Strech goal: incorporate a news sentiment metric into clusterings
         * https://rapidapi.com/bruceowenga-771Y05KlODq/api/crypto-news-api2/
-        
 
+
+
+standard deviation movement
+flesh out criteria for volitility
 
 
 
